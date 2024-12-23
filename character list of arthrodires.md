@@ -817,7 +817,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
  160. Postmarginal canal: absent (0); present (1).
 > Carr and Hlavin (2010), Character 85; Rücklin *et al*. (2015), Character 85; Zhu Y *et al*. (2016), Character 85; Jobbins *et al*. (2022), Character 85.
 
-> - The coding of Xitun actinolepid is 1.
+> - The coding of Xitun actinolepid is 0.
 
  161. External morphology of sensory line system: canals with external pores (0); grooves (1).
 > Dupret *et al*. (2017), Character 14; Zhu *et al*. (2010), Character 14.
@@ -854,12 +854,12 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
  167. Central sensory line: absent (0); present (1).
 > Dupret *et al*. (2009), Character 31; Dupret *et al*. (2017), Character 31; Zhu *et al*. (2010), Character 31.
 
-> - The coding of Xitun actinolepid is 1.
+> - The coding of Xitun actinolepid is 0.
 
  168. Occipital cross commissure: on both nuchal and paranuchal plates (0); only on paranuchal plates (1).
 > Johnson *et al*. (2000), Characters 8 and 9, modified; Dupret *et al*. (2009), Character 36; Dupret *et al*. (2017), Character 36; Zhu *et al*. (2010), Character 36.
 
-> - The coding of Xitun actinolepid is 1.
+> - The coding of Xitun actinolepid is -.
 
  169. Dorsolateral groove (for accessory line) on anterior dorsolateral plate: absent (0); present (1).
 > Dupret *et al*. (2009), Character 46; Dupret *et al*. (2017), Character 46; Zhu *et al*. (2010), Character 46.
@@ -920,6 +920,7 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 
 180.Middle pit-line: absent(0); present(1).
 >In the Dunkleosteidae, the middle pit-line is absent, such as in the *Gorgonichthys*, *Dunkleosteus*, and *Heterosteus ingens*. The middle pit-line is present in the majority of arthrodires, such as in the *Kujdanowiaspis* and *Coccosteus*.
+> - The coding of Xitun actinolepid is 0.
 
 181.Postocular crest: absent(0); present(1).
 >The postocular crest is present in many plesiomorphic arthrodires, such as *Kujdanowiaspis* (Stensiö 1963: fig. 42), *Buchanosteus* (Young 1979: fig. 2), but is absent in eubrachythoracids. In contrast, many eubrachythoracids posssess dermal postorbital processes, but lacking the postocular crest.
@@ -937,6 +938,6 @@ cavity filled by endoskeleton. This type is termed ‘long pseudospinal’. (3) 
 >The lateral nuchal depression on the dorsal suface of neurocranium is short in the brachythoracids and long in the plesiomorphic arthrodires.
 
 186. The central sensory line leaves the postorbital plate: no (0); yes (1).
-> - The coding of Xitun actinolepid is 0.
-> - The central sensory lines of *Xitun Actinolepid*, *Dicksonosteus arcticus*, *Szelepis yunnanensis* don't extend out of the postorbital plate. 
+> - The coding of Xitun actinolepid is -.
+> - The central sensory lines of *Dicksonosteus arcticus* don't extend out of the postorbital plate. 
 
